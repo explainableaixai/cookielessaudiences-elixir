@@ -1,4 +1,4 @@
-# cookielessaudiences v1.0.0 - Table of Contents
+# cookielessaudiences v1.0.1 - Table of Contents
 
 > Elixir client for the Cookieless Audiences API: page-level audience segmentation and IAB categorization with no cookies and no PII.
 

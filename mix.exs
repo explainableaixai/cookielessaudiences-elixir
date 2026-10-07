@@ -4,7 +4,7 @@ defmodule CookielessAudiences.MixProject do
   def project do
     [
       app: :cookielessaudiences,
-      version: "1.0.0",
+      version: "1.0.1",
       elixir: "~> 1.14",
       description: "Elixir client for the Cookieless Audiences API: page-level audience segmentation and IAB categorization with no cookies and no PII.",
       package: package(),

@@ -1,4 +1,4 @@
-# cookielessaudiences v1.0.0 - API Reference
+# cookielessaudiences v1.0.1 - API Reference
 
 ## Modules
 
